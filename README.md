@@ -1,5 +1,5 @@
 ### Hi there ðŸ‘‹
-I'm a Full Stack Developer specializing in Laravel. My experience has equipped me with the technical skills to develop and maintain scalable, efficient, and secure web applications, ensuring sustainable software solutions for businesses and IT teams
+I'm a Full Stack Developer specializing in Laravel. My experience has equipped me with the technical skills to develop and maintain scalable, efficient, and secure web applications, ensuring sustainable software solutions for businesses and IT teams.
 
 â™¥ï¸ I enjoy making people laugh and coding. <br/>
 ðŸ“« How to reach me: [email](waqasjan102030@gmail.com) or [instagram](https://www.instagram.com/abdulhamid.469) <br/>
