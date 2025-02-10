@@ -1,9 +1,8 @@
 ### Hi there ðŸ‘‹
-
-I'm a MERN STACK Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+I'm a Full Stack Developer specializing in Laravel. My experience has equipped me with the technical skills to develop and maintain scalable, efficient, and secure web applications, ensuring sustainable software solutions for businesses and IT teams
 
 â™¥ï¸ I enjoy making people laugh and coding. <br/>
-ðŸ“« How to reach me: [email](hamidkhattak469@gmail.com) or [instagram](https://www.instagram.com/abdulhamid.469/) <br/>
+ðŸ“« How to reach me: [email](waqasjan102030@gmail.com) or [instagram](https://www.instagram.com/abdulhamid.469) <br/>
 ðŸ’¬ Ask me about anything <br/>
 
 #### Connect with me:
